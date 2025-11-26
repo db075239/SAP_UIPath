@@ -1,0 +1,17 @@
+# UiPath auto-generated files
+.local/
+.objects/
+.project/
+.settings/
+*.log
+*.tmp
+*.dll
+*.cache
+
+# UiPath backup files
+*.json.backup
+*~Backup*
+
+# Misc
+*.user
+*.suo
