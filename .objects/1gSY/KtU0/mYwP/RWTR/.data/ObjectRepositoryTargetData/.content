@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="n5FYBcnIiUGeRjpgIQwXFQ" Reference="Vn8xUs-b1kihv0b3Sf5S6w/RWTRP1GC1k2Oz2SB_laxlg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="19982a2c-cae1-4913-a4c9-a6f0739aa010" CvElementArea="742, 924, 24, 24" CvType="CheckBox" DesignTimeRectangle="743, 926, 24, 24" ElementType="CheckBox" ElementVisibilityArgument="Interactive" Guid="08349243-5bbf-428a-9f84-2ea815edd948" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WID(ZT1SQzVRVWxCQlVsOWZYMTlmTWpJNE5WOWZodDRFRU9nQ0g5Q3lpVXhWb0dfUGF3PT0=)' title='Guided sales - [Interaction Center ]' /&gt;" SearchSteps="CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="95626664-23e9-48be-9e18-6b544978dedb" CvTextArea="359, 929, 165, 17" CvTextArgument="WiFi Plus osnovni paket" CvType="Text" DesignTimeRectangle="361, 928, 162, 18" ElementType="Text" Guid="09c16c07-7090-4de8-8dbe-78ac0a6a6c6d" SearchSteps="CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e3a3dac3ed8fb709d05b6baeeb513839.png" xmlns="">0yMdSDbGlwU6uwBj7M1-nOg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

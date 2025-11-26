@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ve7h9INq60axeQWyjPGA5w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="34820066-fb34-41cf-b118-b1ad50322663" CvTextArea="430, 620, 139, 16" CvTextArgument="11 - New contract" CvType="Text" DesignTimeRectangle="413, 609, 258, 40" ElementType="ListItem" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='CRMApplicationFrame' tag='IFRAME' /&gt;&lt;webctrl name='s_400_ZSISALES0000_1763888226401' tag='IFRAME' /&gt;&lt;webctrl id='CRMApplicationFrame' tag='IFRAME' /&gt;&lt;webctrl id='FRAME_APPLICATION' tag='IFRAME' /&gt;&lt;webctrl id='WorkAreaFrame2' tag='FRAME' /&gt;&lt;webctrl tableCol='5' tableRow='1' tag='TABLE' /&gt;&lt;webctrl id='myActionIframe' tableRow='8' tag='IFRAME' /&gt;&lt;webctrl ui5-class='sap.m.SelectList' /&gt;&lt;webctrl ui5-class='sap.ui.core.Item' ui5p-text='11 - New contract' /&gt;" Guid="779313e7-2773-4113-b2f1-c2046eb155b9" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WID(ZT1SQzVRVWxCQlVsOWZYMTlmTWpJNE5WOWZodDRFRU9nQ0g5Q3lpVXhWb0dfUGF3PT0=)' title='Guided sales - [Interaction Center ]' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="34820066-fb34-41cf-b118-b1ad50322663" CvTextArea="431, 660, 111, 16" CvTextArgument="12 - Extension" CvType="Text" DesignTimeRectangle="413, 649, 258, 40" ElementType="ListItem" FullSelectorArgument="&lt;webctrl id='CRMApplicationFrame' tag='IFRAME' /&gt;&lt;webctrl name='s_400_ZSISALES0000_1763888226401' tag='IFRAME' /&gt;&lt;webctrl id='CRMApplicationFrame' tag='IFRAME' /&gt;&lt;webctrl id='FRAME_APPLICATION' tag='IFRAME' /&gt;&lt;webctrl id='WorkAreaFrame2' tag='FRAME' /&gt;&lt;webctrl tableCol='5' tableRow='1' tag='TABLE' /&gt;&lt;webctrl id='myActionIframe' tableRow='8' tag='IFRAME' /&gt;&lt;webctrl ui5-class='sap.m.SelectList' /&gt;&lt;webctrl ui5-class='sap.ui.core.Item' ui5p-text='12 - Extension' /&gt;" Guid="dd62d339-965a-4a12-8924-fb43e57b6513" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b939f54395e991e514c6f1cbe67d24d1.png" xmlns="">0kCEdL2njwES2xjgeZWkDBw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

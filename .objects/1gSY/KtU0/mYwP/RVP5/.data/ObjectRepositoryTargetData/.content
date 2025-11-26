@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Wga55DuMmUOE5MIfQSvOFA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="704d80ea-45bc-4ff0-86f8-eeec7fea5fe9" CvElementArea="1106, 512, 56, 19" CvTextArea="1118, 516, 38, 13" CvTextArgument="Log On" CvType="Button" DesignTimeRectangle="1106, 512, 56, 19" ElementType="Button" ElementVisibilityArgument="Interactive" Guid="31233e77-280c-4636-ac97-be662025b125" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Logon - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="13ebbbf465764fee16f9c122ef99e5d7.png" xmlns="">0NMQDYoJKsEmkvAgdFBQgXg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

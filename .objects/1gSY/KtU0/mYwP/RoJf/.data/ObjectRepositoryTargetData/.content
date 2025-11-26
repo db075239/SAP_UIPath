@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mYMoNMpmCUKwOAD65mHMUg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="59f445db-ca75-4200-87b5-abc60b793a86" DesignTimeRectangle="972, 593, 62, 16" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl sapweb-lsid='SESSION_QUERY_CONTINUE_BUTTON' /&gt;" Guid="1d68e662-420e-48ca-b864-85cb7f421f45" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Logon Status Check' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9be824ba2a4ff5416f3d19a5bdeb24bb.png" xmlns="">0SmQoGJBsAUWkDYHvyzflcA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

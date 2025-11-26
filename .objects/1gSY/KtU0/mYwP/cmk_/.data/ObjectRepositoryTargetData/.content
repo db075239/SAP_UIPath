@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UW_pwZmbKkq_feG59uIR7w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="5f04b586-277c-4bd1-8aff-5e8fb8ff5748" CvElementArea="1105, 419, 119, 18" CvType="InputBox" DesignTimeRectangle="1105, 419, 119, 18" ElementType="InputBox" ElementVisibilityArgument="Interactive" Guid="d8d00475-c1d5-4c9b-afc9-6cf5d7cb25a5" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Logon - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5f04b586-277c-4bd1-8aff-5e8fb8ff5748" CvTextArea="971, 423, 27, 11" CvTextArgument="User:" CvType="Text" DesignTimeRectangle="971, 423, 27, 11" ElementType="Text" Guid="ac6592ce-b17f-4385-bea8-fc90aff25a72" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1855ddf0ca45c9ef1f1ddc7cace301c1.png" xmlns="">0e5W2eiThJkKoD5hQKjF7QA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

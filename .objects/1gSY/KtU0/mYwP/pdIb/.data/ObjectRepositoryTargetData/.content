@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qjHocMHQ3EqcukxUcZ-26Q" Reference="Vn8xUs-b1kihv0b3Sf5S6w/pdIbiJKa9Emxs7rmrTo-ww" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="15ee9acd-161c-451f-8891-afecf884c73f" DesignTimeRectangle="1009, 622, 101, 16" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='CRMApplicationFrame' tag='IFRAME' /&gt;&lt;webctrl name='s_400_ZSISALES0000_1763972873171' tag='IFRAME' /&gt;&lt;webctrl id='CRMApplicationFrame' tag='IFRAME' /&gt;&lt;webctrl id='FRAME_APPLICATION' tag='IFRAME' /&gt;&lt;webctrl id='WorkAreaFrame2' tag='FRAME' /&gt;&lt;webctrl tableCol='5' tableRow='1' tag='TABLE' /&gt;&lt;webctrl id='myActionIframe' tableRow='8' tag='IFRAME' /&gt;&lt;webctrl ui5-class='sap.m.Table' /&gt;&lt;webctrl ui5-colLabel='Telno' ui5-tableRow='0' /&gt;" FuzzySelectorArgument="&lt;webctrl ui5-colLabel='Telno' ui5-tableRow='0' /&gt;" Guid="be0661bb-480e-4d86-acca-526e6bb4dd1a" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WID(ZT1SQzVRVWxCQlVsOWZYMTlmTWpNd05UVmZodDRFRU9nQ0g5Q3lvZThJaFdrUGh3PT0=)' title='Guided sales - [Interaction Center ]' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0f870def4eca245cbe25e3855d500332.png" xmlns="">0PrLggFIdM0KY7tr2X0mdnQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

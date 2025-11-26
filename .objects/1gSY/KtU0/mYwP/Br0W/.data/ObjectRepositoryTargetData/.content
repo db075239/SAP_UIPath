@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FGiRfm9UzEaxLcbYXNm-WA" Reference="Vn8xUs-b1kihv0b3Sf5S6w/Br0W27-aTk-I8EjV9naWbA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" DesignTimeRectangle="182, 397, 1578, 580" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='CRMApplicationFrame' tag='IFRAME' /&gt;&lt;webctrl name='s_400_ZSISALES0000_1763972873171' tag='IFRAME' /&gt;&lt;webctrl id='CRMApplicationFrame' tag='IFRAME' /&gt;&lt;webctrl id='FRAME_APPLICATION' tag='IFRAME' /&gt;&lt;webctrl id='WorkAreaFrame2' tag='FRAME' /&gt;&lt;webctrl tableCol='5' tableRow='1' tag='TABLE' /&gt;&lt;webctrl id='myActionIframe' tableRow='8' tag='IFRAME' /&gt;&lt;webctrl id='container-CRD_GUIDED_SALES---checkoutView--checkoutWizard' /&gt;" FuzzySelectorArgument="&lt;webctrl id='container-CRD_GUIDED_SALES---checkoutView--checkoutWizard' /&gt;" Guid="fd9f5ac9-59be-48c9-8e7b-6765b52d215d" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WID(ZT1SQzVRVWxCQlVsOWZYMTlmTWpNd05UVmZodDRFRU9nQ0g5Q3lvZThJaFdrUGh3PT0=)' title='Guided sales - [Interaction Center ]' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d2de45571f26b35dad0cbe6c0152fb01.png" xmlns="">0uGE-x_lvTUO_oEZBbXXYvg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScroll</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

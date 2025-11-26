@@ -1,0 +1,14 @@
+﻿{
+  "Name": "sap.m.Select __select0-…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "-Im189fE90WVBbNVVQ9agg",
+  "Reference": "Vn8xUs-b1kihv0b3Sf5S6w/-Im189fE90WVBbNVVQ9agg",
+  "ParentRef": "Vn8xUs-b1kihv0b3Sf5S6w/mYwPP79vwUK23RjX3Z9hvQ",
+  "Created": "2025-11-21T15:06:11.6750326Z",
+  "Updated": "2025-11-21T15:06:11.6750326Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

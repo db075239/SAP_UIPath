@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Step 6",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "5EXq-4pGwUiZJds-0V_IAQ",
+  "Reference": "Vn8xUs-b1kihv0b3Sf5S6w/5EXq-4pGwUiZJds-0V_IAQ",
+  "ParentRef": "Vn8xUs-b1kihv0b3Sf5S6w/mYwPP79vwUK23RjX3Z9hvQ",
+  "Created": "2025-11-24T10:39:44.8003235Z",
+  "Updated": "2025-11-24T10:39:44.8003235Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

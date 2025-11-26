@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Q8XiUGHrtEapO0fd5lLfIQ" Reference="Vn8xUs-b1kihv0b3Sf5S6w/5b4tgoAvsU2ntswLwfs0_w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="b4f23ea6-f73d-4b03-bd52-c0ba1df89010" CvTextArea="1643, 451, 55, 12" CvTextArgument="[row(&quot;Tax number&quot;).ToString()]" CvType="Text" DesignTimeRectangle="1644, 451, 261, 14" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='CRMApplicationFrame' tag='IFRAME' /&gt;&lt;webctrl name='s_400_ZSISALES0000_1763738078270' tag='IFRAME' /&gt;&lt;webctrl id='CRMApplicationFrame' tag='IFRAME' /&gt;&lt;webctrl id='FRAME_APPLICATION' tag='IFRAME' /&gt;&lt;webctrl id='WorkAreaFrame1' tag='FRAME' /&gt;&lt;webctrl aaname=' Account Account  name Tax Number' tableCol='1' tableRow='1' tag='TABLE' /&gt;&lt;webctrl aaname='77001575' tableRow='2' tag='SPAN' /&gt;" Guid="14283b16-87f4-4a3a-b0a7-0df84b30305a" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WID(ZT1SQzVRVWxCQlVsOWZYMTlmTWpJNE4xOWZodDRFRU9nQ0g5Q3gzWmx4M0piUG5BPT0=)' title='Identify Account - [Interaction Center ]' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f2c1df6f8aa6c10a8c66d5f2322a113e.png" xmlns="">0rOonOmd-80uhvhDg1wUcAw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

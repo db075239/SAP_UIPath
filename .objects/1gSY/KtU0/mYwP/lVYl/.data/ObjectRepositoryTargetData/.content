@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FXrLeyFFVku6HgwB_vZxPQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="712c5f61-13e6-4d14-bdee-3d9e362a93e0" CvElementArea="971, 534, 15, 15" CvType="CheckBox" DesignTimeRectangle="972, 534, 12, 16" ElementType="Icon" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='delete-session-cb-img' type='' tag='IMG' class='urNoUserSelect lsCImgDspl urCImgOn' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="01c0d67c-38e4-46e2-b5d2-3483069f18ff" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Logon Status Check' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="712c5f61-13e6-4d14-bdee-3d9e362a93e0" CvTextArea="986, 535, 128, 13" CvTextArgument="Cancel all existing logons" CvType="Text" DesignTimeRectangle="987, 535, 126, 12" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='lsCBStdTxt' parentid='delete-session-cb-lbl' type='' tag='SPAN' aaname='Cancel all existing logons' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Cancel all existing logons' /&gt;" Guid="0ecf3ee7-0081-4e5c-839d-93ed394a9d92" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cd0d6b56786b9a7ca99bc4a01a546b4d.png" xmlns="">0mdWwOWLLd0m_TvEdWmJ2OA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

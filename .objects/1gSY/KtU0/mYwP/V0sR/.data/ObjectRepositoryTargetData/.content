@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ngmojc2s00enHjrwBfSjtA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="dcd75ae3-74b7-4f81-a3f0-a71e5ecff126" CvTextArea="21, 554, 89, 15" CvTextArgument="Guided sales" CvType="Text" DesignTimeRectangle="21, 554, 88, 15" ElementType="Text" ElementVisibilityArgument="Interactive" Guid="a1d34126-5e3d-4e00-93c6-1e3ba4a5d134" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WID(ZT1SQzVRVWxCQlVsOWZYMTlmTWpJNE5WOWZodDRFRU9nQ0g5Q3lpaU1UaUh4UHpnPT0=)' title='Identify Account - [Interaction Center ]' /&gt;" SearchSteps="CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dcd75ae3-74b7-4f81-a3f0-a71e5ecff126" CvTextArea="21, 521, 141, 15" CvTextArgument="Customer dashboard" CvType="Text" DesignTimeRectangle="21, 520, 141, 15" ElementType="Text" Guid="724edc75-b000-4bf1-80cc-52d8139ad415" SearchSteps="CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b777ec2fd9a41c32611244eb7f81a39a.png" xmlns="">02zTzWaG1X0mBwLPI-7IxTw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

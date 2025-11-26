@@ -1,0 +1,14 @@
+﻿{
+  "Name": "ASTRA AI",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "xB-zbeiaNUqYpCBJ1ZSFNg",
+  "Reference": "Vn8xUs-b1kihv0b3Sf5S6w/xB-zbeiaNUqYpCBJ1ZSFNg",
+  "ParentRef": "Vn8xUs-b1kihv0b3Sf5S6w/mYwPP79vwUK23RjX3Z9hvQ",
+  "Created": "2025-11-24T09:16:41.6246271Z",
+  "Updated": "2025-11-24T09:16:41.6246271Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

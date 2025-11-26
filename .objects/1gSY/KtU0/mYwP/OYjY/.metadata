@@ -1,0 +1,14 @@
+﻿{
+  "Name": "sap.m.SearchField",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "OYjYNqo1xk2yLBgdywEXJA",
+  "Reference": "Vn8xUs-b1kihv0b3Sf5S6w/OYjYNqo1xk2yLBgdywEXJA",
+  "ParentRef": "Vn8xUs-b1kihv0b3Sf5S6w/mYwPP79vwUK23RjX3Z9hvQ",
+  "Created": "2025-11-21T15:00:46.1727221Z",
+  "Updated": "2025-11-21T15:00:46.1727221Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

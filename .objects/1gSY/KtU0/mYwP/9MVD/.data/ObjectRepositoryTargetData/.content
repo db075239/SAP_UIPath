@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="G10bMlL0f0CjE213lGi0gA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="ba128491-85c7-4d0c-a82a-abfea5dbf54f" CvElementArea="393, 303, 94, 23" CvType="InputBox" DesignTimeRectangle="394, 304, 92, 22" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='f4modalframe' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='search_criteria_gr1' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='HOUSENUM_L' type='' tag='INPUT' class='th-sif' aaname='Hs No.: Lower limit: ' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="8caa5093-fb9a-4d3b-9259-e79c5b7a1080" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Search Help' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ba128491-85c7-4d0c-a82a-abfea5dbf54f" CvTextArea="29, 304, 105, 12" CvTextArgument="Hs No.: Lower limit:" CvType="Text" DesignTimeRectangle="30, 304, 107, 14" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='f4modalframe' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='search_criteria_gr1' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='thtmlb_label_6' type='' tag='LABEL' class='th-lb th-lb-txtlbl th-ellipsis' aaname='Hs No.: Lower limit: ' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Hs No.: Lower limit:' /&gt;" Guid="39d49ef9-82a8-4f14-8ef8-4eec54fd1d04" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5f5e0b989931343f5c80a08889eefa44.png" xmlns="">0WJ0km8yTnkKtlTPNdiGmHA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

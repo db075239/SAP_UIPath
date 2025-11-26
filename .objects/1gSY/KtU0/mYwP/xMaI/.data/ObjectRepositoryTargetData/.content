@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ipmeMhFwfEqWK7OEyLbPFg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="ba128491-85c7-4d0c-a82a-abfea5dbf54f" CvElementArea="393, 279, 94, 24" CvType="InputBox" DesignTimeRectangle="394, 280, 92, 22" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='f4modalframe' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='search_criteria_gr1' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='POST_CODE' type='' tag='INPUT' class='th-sif' aaname='Postal Code: ' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="cb775e3e-692f-493f-9042-557b961b09f8" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Search Help' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ba128491-85c7-4d0c-a82a-abfea5dbf54f" CvTextArea="29, 280, 70, 12" CvTextArgument="Postal Code:" CvType="Text" DesignTimeRectangle="30, 280, 72, 14" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='f4modalframe' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='search_criteria_gr1' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='thtmlb_label_5' type='' tag='LABEL' class='th-lb th-lb-txtlbl th-ellipsis' aaname='Postal Code: ' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Postal Code:' /&gt;" Guid="a1bd3a58-8d7f-4c84-bc20-b356f65709c1" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8fadb997d0c5c37dc1deaf94eb16d405.png" xmlns="">0b4YHOP_6H0mpApua-sT-yA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

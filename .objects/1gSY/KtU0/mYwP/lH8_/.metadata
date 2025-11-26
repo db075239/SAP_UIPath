@@ -1,0 +1,13 @@
+﻿{
+  "Name": "11 - New contract",
+  "Type": "Element",
+  "Id": "lH8_DF3Ih0OcXsOabTpy8g",
+  "Reference": "Vn8xUs-b1kihv0b3Sf5S6w/lH8_DF3Ih0OcXsOabTpy8g",
+  "ParentRef": "Vn8xUs-b1kihv0b3Sf5S6w/mYwPP79vwUK23RjX3Z9hvQ",
+  "Created": "2025-11-21T14:58:13.5594235Z",
+  "Updated": "2025-11-21T14:58:13.5594235Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

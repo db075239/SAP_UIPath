@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="7MQeQbKS1U6h1RRowxV5aA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-1, -1088, 1936, 1048" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABoSURBVDhP7ZBRCsAwCENzdI/mzRzBZrMi/dlvH4RSNSoCFwAW/wQLs0/1P+WaGXD3oN4isxAsIsyTvclCSb40q6EMehXfzElOrqhYjRTLDbq9Ta0NBDcbJi/Kkfqx6l26rdAvO+ly4gENKfOt2H9nqgAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='Logon' /&gt;" Title="Logon" Url="http://sicrsapl1.ugbb.net:8070/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm?sap-client=400&amp;sap-language=EN" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="45d7e528f9a897efb6e33991bae96175.jpg" xmlns="">0cTMzLDpH10mj4VsC8Ly7fw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

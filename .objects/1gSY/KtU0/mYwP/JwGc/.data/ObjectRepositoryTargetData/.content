@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9uGYhEgq3U2eh6hTI_OG4g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="bcc9f20a-59f0-4453-98e3-92e82a63d86f" CvElementArea="29, 425, 53, 24" CvTextArea="34, 429, 43, 13" CvTextArgument="Search" CvType="Button" DesignTimeRectangle="35, 427, 41, 17" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='f4modalframe' tag='IFRAME' /&gt;&lt;webctrl id='search_criteria_gr1' tableRow='2' tag='TABLE' /&gt;&lt;webctrl tableRow='12' tag='B' /&gt;" Guid="3c17c0ac-195d-400a-9610-759107731a81" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Search Help' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="bcc9f20a-59f0-4453-98e3-92e82a63d86f" CvElementArea="84, 425, 43, 23" CvTextArea="88, 429, 34, 13" CvTextArgument="Clear" CvType="Button" DesignTimeRectangle="90, 427, 31, 17" FuzzySelectorArgument="&lt;webctrl id='f4modalframe' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='search_criteria_gr1' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl parentid='Clear' type='' tag='B' class='th-bt-b' aaname='Clear' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Clear' /&gt;" Guid="2710095b-595f-433c-ab8d-e27d8e566930" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="49a2c92b138633776109dd7a5fcdf9c7.png" xmlns="">0Kgmv1suyVEqas_duR8hBiA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

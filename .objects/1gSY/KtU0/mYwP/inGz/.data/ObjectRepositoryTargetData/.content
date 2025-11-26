@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QzDU6lWwq02H0T-hvADXgQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="81cdbe8e-ec2a-4661-84b1-eb6b2d0364cc" CvElementArea="666, 556, 127, 37" CvTextArea="682, 569, 95, 13" CvTextArgument="Continue to site" CvType="Button" DesignTimeRectangle="666, 556, 127, 37" ElementType="Button" ElementVisibilityArgument="Interactive" Guid="64b24911-fe4c-48d5-aba3-d8764a5f40e7" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Site is not secure - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ae62bdcf1ceefb418bc75e3d9feab319.png" xmlns="">0JX5vtbWiAUmITj33SkUd9Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

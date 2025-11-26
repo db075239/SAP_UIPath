@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pMSU7o80wE-ii2MrmTpI3A" Reference="Vn8xUs-b1kihv0b3Sf5S6w/4fAOBJsrUkey3KqXgpi3KA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="22df580a-9894-4842-b90e-d0385038a8b4" CvTextArea="728, 900, 295, 13" CvTextArgument="[row(&quot;Astra AI option&quot;).toString()]" CvType="Text" DesignTimeRectangle="728, 900, 295, 13" ElementType="ListItem" ElementVisibilityArgument="Interactive" Guid="baf08794-1fad-4772-bdff-56820a69f1d5" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WID(ZT1SQzVRVWxCQlVsOWZYMTlmTWpNd05UVmZodDRFRU9nQ0g5Q3lvZThJaFdrUGh3PT0=)' title='Guided sales - [Interaction Center ]' /&gt;" SearchSteps="CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="22df580a-9894-4842-b90e-d0385038a8b4" CvTextArea="288, 806, 194, 12" CvTextArgument="Združeno Kraljestvo 5 GB mesečno" CvType="Text" DesignTimeRectangle="289, 806, 193, 15" ElementType="Text" Guid="8760421f-f707-413d-95a4-a7565c029fe4" SearchSteps="CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="aab83f1a2bde916c43d8fceb585d299a.png" xmlns="">0DUO06A20zUalFscrkF14gw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

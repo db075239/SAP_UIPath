@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Logon",
+  "Type": "Screen",
+  "Id": "mYwPP79vwUK23RjX3Z9hvQ",
+  "Reference": "Vn8xUs-b1kihv0b3Sf5S6w/mYwPP79vwUK23RjX3Z9hvQ",
+  "ParentRef": "Vn8xUs-b1kihv0b3Sf5S6w/KtU0r9BnPkq7ufsAPlAXqQ",
+  "Created": "2025-11-21T13:58:58.2073476Z",
+  "Updated": "2025-11-21T13:58:58.2073476Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Hs No. Lower limit",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "9MVDZRa2YUG-AFXvLARd4g",
+  "Reference": "Vn8xUs-b1kihv0b3Sf5S6w/9MVDZRa2YUG-AFXvLARd4g",
+  "ParentRef": "Vn8xUs-b1kihv0b3Sf5S6w/mYwPP79vwUK23RjX3Z9hvQ",
+  "Created": "2025-11-25T13:59:09.0045074Z",
+  "Updated": "2025-11-25T13:59:09.0045074Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

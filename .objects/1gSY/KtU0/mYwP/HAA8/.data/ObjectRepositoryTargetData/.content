@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aMK2yq7VJEOewOV6auD9Xw" Reference="Vn8xUs-b1kihv0b3Sf5S6w/HAA8UrgTVkeNLGT8xoV6pw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="6ab1ba0f-4e16-4601-9c4d-d5939fc0f7db" DesignTimeRectangle="230, 698, 297, 26" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='CRMApplicationFrame' tag='IFRAME' /&gt;&lt;webctrl name='s_400_ZSISALES0000_1763972873171' tag='IFRAME' /&gt;&lt;webctrl id='CRMApplicationFrame' tag='IFRAME' /&gt;&lt;webctrl id='FRAME_APPLICATION' tag='IFRAME' /&gt;&lt;webctrl id='WorkAreaFrame2' tag='FRAME' /&gt;&lt;webctrl tableCol='5' tableRow='1' tag='TABLE' /&gt;&lt;webctrl id='myActionIframe' tableRow='8' tag='IFRAME' /&gt;&lt;webctrl idx='2' ui5-class='sap.m.Table' /&gt;&lt;webctrl ui5-colLabel='Resource type' ui5-tableRow='1' /&gt;" FuzzySelectorArgument="&lt;webctrl ui5-colLabel='Resource type' ui5-tableRow='1' /&gt;" Guid="ddd89b1b-7eb4-4570-979d-7fbd8917378d" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WID(ZT1SQzVRVWxCQlVsOWZYMTlmTWpNd05UVmZodDRFRU9nQ0g5Q3lvZThJaFdrUGh3PT0=)' title='Guided sales - [Interaction Center ]' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="6ab1ba0f-4e16-4601-9c4d-d5939fc0f7db" CvTextArea="197, 479, 18, 17" CvTextArgument="3." CvType="Text" DesignTimeRectangle="197, 479, 18, 17" ElementType="Text" Guid="df0e8425-515b-4f29-a583-adfd23d6b448" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c80959b93459985a7e34d7447794a63b.png" xmlns="">0toZwDCF0ak6NW3QlJIjovw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

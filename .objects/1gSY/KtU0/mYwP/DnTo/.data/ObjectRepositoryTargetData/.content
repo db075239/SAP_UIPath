@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="O0BEmFXy_EyvYin63kNOuQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="730640d6-4f49-44b5-8a48-d7eb4916be13" CvTextArea="1008, 623, 103, 13" CvTextArgument="0038670496470" CvType="Text" DesignTimeRectangle="1007, 623, 104, 13" ElementType="Text" ElementVisibilityArgument="Interactive" Guid="26c5ac02-8760-43a4-a0aa-d2da729fcc6a" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WID(ZT1SQzVRVWxCQlVsOWZYMTlmTWpNd05UVmZodDRFRU9nQ0g5Q3lvZThJaFdrUGh3PT0=)' title='Guided sales - [Interaction Center ]' /&gt;" SearchSteps="CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="730640d6-4f49-44b5-8a48-d7eb4916be13" CvTextArea="1008, 526, 367, 21" CvTextArgument="Services (Click on an item to set as navigated)" CvType="Text" DesignTimeRectangle="1008, 526, 367, 21" ElementType="Text" Guid="7b504771-3bcb-4c7a-840a-050fb5c26218" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f928931a226c1bb9f864d2a47a5950f4.png" xmlns="">0P25nMOeKh0OdogmLCpaCjQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

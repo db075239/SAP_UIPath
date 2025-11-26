@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Mouse Scroll 'DIV'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "KycMU8KRDUaJOrI1mzr3sg",
+  "Reference": "Vn8xUs-b1kihv0b3Sf5S6w/KycMU8KRDUaJOrI1mzr3sg",
+  "ParentRef": "Vn8xUs-b1kihv0b3Sf5S6w/LJtWIuCCeUybtLNP6n-TmA",
+  "Created": "2025-11-24T09:12:13.7520947Z",
+  "Updated": "2025-11-24T09:12:13.7520947Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

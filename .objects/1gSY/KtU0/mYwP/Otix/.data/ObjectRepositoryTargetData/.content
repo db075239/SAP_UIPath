@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9nFv5CdloUqBAXLcbaaXww" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="ba128491-85c7-4d0c-a82a-abfea5dbf54f" CvElementArea="393, 207, 183, 24" CvType="InputBox" DesignTimeRectangle="394, 208, 182, 22" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='f4modalframe' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='search_criteria_gr1' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='MC_CITY' type='' tag='INPUT' class='th-sif' aaname='City: ' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="414c22a4-1809-4e7d-bb3d-b04748c0a4ac" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Search Help' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ba128491-85c7-4d0c-a82a-abfea5dbf54f" CvTextArea="29, 208, 25, 14" CvTextArgument="City:" CvType="Text" DesignTimeRectangle="30, 208, 27, 14" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='f4modalframe' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='search_criteria_gr1' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='thtmlb_label_2' type='' tag='LABEL' class='th-lb th-lb-txtlbl th-ellipsis' aaname='City: ' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='City:' /&gt;" Guid="c59d9af2-2210-4303-bd14-8d5a11379e6f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="65fc05fa8a62d1b4847db5d20fb50565.png" xmlns="">02jFRVWe6PEW0p42PEMaRLA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Actions for INT basic e…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "I4lpyg6VzEG4ygSj7Wkfkg",
+  "Reference": "Vn8xUs-b1kihv0b3Sf5S6w/I4lpyg6VzEG4ygSj7Wkfkg",
+  "ParentRef": "Vn8xUs-b1kihv0b3Sf5S6w/mYwPP79vwUK23RjX3Z9hvQ",
+  "Created": "2025-11-23T09:20:05.129017Z",
+  "Updated": "2025-11-23T09:20:05.129017Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

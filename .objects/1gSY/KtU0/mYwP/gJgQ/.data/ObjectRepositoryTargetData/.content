@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tXtrUDgm3E-t06RS_xoyow" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="572a7328-21ed-4460-b575-f512a0e898aa" CvElementArea="401, 725, 92, 24" CvTextArea="426, 730, 56, 13" CvTextArgument="Individual" CvType="Button" DesignTimeRectangle="401, 725, 92, 25" ElementVisibilityArgument="Interactive" Guid="afc9964c-d6d4-46e2-ba8a-47babbbed72e" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WID(ZT1SQzVRVWxCQlVsOWZYMTlmTWpJNE1UQmZodDRFRU9nQ0g5Q3l3R285anFqUHlRPT0=)' title='Identify Account - [Interaction Center ]' /&gt;" SearchSteps="CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="572a7328-21ed-4460-b575-f512a0e898aa" CvElementArea="350, 726, 47, 24" CvTextArea="356, 730, 36, 13" CvTextArgument="Reset" CvType="Button" DesignTimeRectangle="350, 726, 47, 24" Guid="62d5d489-9946-45fb-bd06-8424cf052ac2" SearchSteps="CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d6b40a3bb8405cb506a2495b2362ee1f.png" xmlns="">020GnLYxc2U-Pp-k8dpLuKQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

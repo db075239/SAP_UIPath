@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rZAkrzIqF0WlPe3QiOdfPg" Reference="Vn8xUs-b1kihv0b3Sf5S6w/lQyCM1-hMUO0BDhEW3cJMw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sicrsapl1.ugbb.net/sap(bD1zbCZjPTQwMCZkPW1pbg==)/bc/bsp/sap/crm_ui_start/default.htm" CVScreenId="d75f87e4-7ee0-41cd-a24d-c689aaaff556" CvTextArea="812, 920, 370, 16" CvTextArgument="024 MONTH - 24 mesecev free WiFi Mesh - 024" CvType="Text" DesignTimeRectangle="817, 852, 370, 17" ElementType="ListItem" ElementVisibilityArgument="Interactive" Guid="00381646-f696-4518-ab3f-b41a654d69ac" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WID(ZT1SQzVRVWxCQlVsOWZYMTlmTWpJNE5WOWZodDRFRU9nQ0g5Q3lpVXhWb0dfUGF3PT0=)' title='Guided sales - [Interaction Center ]' /&gt;" SearchSteps="CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d75f87e4-7ee0-41cd-a24d-c689aaaff556" CvTextArea="812, 960, 421, 16" CvTextArgument="024 MONTH - 1 M brezpl. WiFi Mesh (Try &amp; Buy) - 001" CvType="Text" DesignTimeRectangle="817, 892, 421, 21" ElementType="ListItem" Guid="5e0dbb4e-fa65-4fe5-a824-c17081f9a7e8" SearchSteps="CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fde6a37b840ee0f78336788c04e4480e.png" xmlns="">0Jurn_ld7VUGMKJUji6PlcA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
