@@ -10,6 +10,7 @@
     "UiPath.System.Activities": "[24.10.7]",
     "UiPath.Testing.Activities": "[24.10.3]",
     "UiPath.UIAutomation.Activities": "25.10.19",
+    "UiPath.WebAPI.Activities": "[2.3.2]",
     "UiPathTeam.SharePoint.Activities": "[2.0.3]"
   },
   "webServices": [],
@@ -39,6 +40,7 @@
     "projectProfile": "Developement",
     "outputType": "Process",
     "libraryOptions": {
+      "includeOriginalXaml": false,
       "privateWorkflows": []
     },
     "processOptions": {
